@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    object-fit: contain;
+}
+th{
+    width: 250px;
+}
+
+footer,header{
+    padding: 35px;
+    background-color: aquamarine;
+}
+table{
+    margin: 25px 0;
+}
+
+input{
+    height: 50px;
+    width: 100%;
+    margin-top: 15px;
+}
+.disappear{
+    display: none;
+}
